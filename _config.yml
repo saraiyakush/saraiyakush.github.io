@@ -1,1 +1,7 @@
-theme: null
+title: "Kush Saraiya"
+description: "Seasoned Software Consultant · Bridge Between Tech & Product"
+baseurl: ""
+url: "https://saraiyakush.github.io"
+
+theme: minima
+markdown: kramdown
