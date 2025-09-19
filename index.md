@@ -1,8 +1,6 @@
 ---
-title: "Kush Saraiya — Software Consultant"
+layout: default
 ---
-
-[Home](index.md) | [Writing](writing.md)
 
 # Kush Saraiya
 
