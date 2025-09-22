@@ -27,4 +27,6 @@ Thoughts on software design, engineering practices, career growth, and life skil
 
 #### 2022
 - [Building Serverless applications with AWS SAM](https://www.youtube.com/watch?v=mXHdqP0jgRA){:target="_blank"}
+
+#### 2021
 - [Git best practices and CI_CD with Bitbucket pipeline](https://www.youtube.com/watch?v=pL43wDkHrg4){:target="_blank"}
