@@ -3,9 +3,7 @@ layout: default
 title: Kush Saraiya
 ---
 
-# Kush Saraiya
-
-*Engineer, mentor, and software consultant shaped by years of building systems, guiding teams, and translating tech into clarity.*
+Engineer, mentor, and software consultant shaped by years of building systems, guiding teams, and translating tech into clarity.
 
 I turn technical depth into real-world insight — helping teams create better products today, while inspiring the next generation to truly understand technology, and life beyond it.
 

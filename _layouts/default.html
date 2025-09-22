@@ -22,10 +22,7 @@
       <!-- Custom Navigation -->
       <nav class="main-nav">
         <a href="{{ "/" | relative_url }}" class="nav-link">Home</a>
-        <a href="{{ "/about" | relative_url }}" class="nav-link">About</a>
-        <a href="{{ "/portfolio" | relative_url }}" class="nav-link">Portfolio</a>
         <a href="{{ "/writing" | relative_url }}" class="nav-link">Writing</a>
-        <a href="{{ "/speaking" | relative_url }}" class="nav-link">Speaking</a>
         <a href="{{ "/contact" | relative_url }}" class="nav-link">Contact</a>
       </nav>
     </header>
@@ -34,9 +31,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }} &middot; 
-          <a href="https://linkedin.com/in/kushsaraiya" target="_blank" rel="noopener noreferrer">LinkedIn</a> &middot; 
-          <a href="https://github.com/saraiyakush" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}
         </p>
       </footer>
     </main>
