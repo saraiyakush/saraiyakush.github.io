@@ -16,7 +16,6 @@ I turn technical depth into real-world insight — helping teams create better p
 - Leading, mentoring, and enabling engineers to grow.
 - Sharing knowledge and giving back to the community.
 
----
 
 ## Beyond Consulting
 
