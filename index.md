@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Kush Saraiya
 ---
 
 # Kush Saraiya
