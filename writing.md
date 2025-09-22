@@ -1,9 +1,12 @@
-[Home](index.md) | [Writing](writing.md)
+---
+layout: default
+title: Writing
+---
 
-# ✍️ My Writing
 
-I write about software design, engineering practices, career growth and life skills.
-Here are some of my recent blogs:
+# ✍️ Writing
+
+Thoughts on software design, engineering practices, career growth, and life skills.
 
 ---
 
