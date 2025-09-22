@@ -3,5 +3,5 @@ description: "Seasoned Software Consultant · Bridge Between Tech & Product"
 baseurl: ""
 url: "https://saraiyakush.github.io"
 
-theme: minima
+theme: cayman
 markdown: kramdown
