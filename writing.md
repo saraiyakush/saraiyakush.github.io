@@ -9,6 +9,7 @@ Thoughts on software design, engineering practices, career growth, and life skil
 ## 📝 Articles
 
 #### 2025
+- [The One Skill You Need to Master AI](https://kush-saraiya.medium.com/the-one-skill-you-need-to-master-ai-9c58d09b3283){:target="_blank"}
 - [Why Unit Tests Matter: A Currency Converter Story](https://kush-saraiya.medium.com/why-unit-tests-matter-a-currency-converter-story-277fbcaf5109){:target="_blank"}
 
 #### 2023
