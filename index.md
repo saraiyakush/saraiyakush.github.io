@@ -3,22 +3,30 @@ layout: default
 title: Kush Saraiya
 ---
 
-Engineer, mentor, and software consultant shaped by years of building systems, guiding teams, and translating tech into clarity.
+Engineer. Architect. Mentor.
 
-I turn technical depth into practical insight — helping teams create better products today, while inspiring the next generation to truly understand technology, and life beyond it.
+I've worked across large-scale distributed systems, evolving architectures and guiding teams through complex technical decisions. I bring clarity to complex systems — aligning architecture with long-term business outcomes and responsible technology decisions.
+
+With 17+ years of building and guiding software systems, I focus on judgment over hype, trade-offs over trends, and sustainability over speed.
+
+I help teams design systems that scale — technically, organisationally, and ethically.
 
 
 ## What Drives Me
 
-- Explaining technical concepts in layman's terms so decisions are informed and inclusive.
-- Partnering with leaders and teams to align architecture with real business outcomes.
-- Leading, mentoring, and enabling engineers to grow.
-- Sharing knowledge and giving back to the community.
+- Making complex technology understandable — so decisions are informed, inclusive, and accountable.
+- Ensuring architecture serves real business intent — not just technical elegance.
+- Mentoring engineers to develop judgment, not just execution.
+- Sharing knowledge that strengthens the wider engineering community.
 
 
-## Beyond Consulting
+## What I Stand For
 
-I'm passionate about solving real-world problems — though I believe my best work on that front is still ahead of me.
-Data privacy and user consent are my top priorities when assessing any product or service.
+Technology shapes society.
 
-I aspire to educate non-technical people about technology and its impact — especially how their data is used.
+I care deeply about data privacy, user consent, and the long-term consequences of digital systems.
+
+I aim to educate non-technical audiences about how technology impacts their lives — especially how their data is collected, processed, and monetised.
+
+Clarity is not just a skill.
+It is a responsibility.
